@@ -1,0 +1,12 @@
+{
+    "name": "kristian/_monkiefy",
+    "authors": [
+        {
+            "name": "Per Kristian",
+            "email": "kristiansvanberg@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.12"
+    }
+}
